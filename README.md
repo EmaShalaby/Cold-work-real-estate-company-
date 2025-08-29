@@ -1,9 +1,9 @@
-# Cold-work real estate company Sales Dashboard
+# Cold work real estate company Sales Dashboard
 
- Real Estate Sales Dashboard – Evaluated properties worth 368.95Bn, with insights on 37 agents, 5 unit types, and 4.52M down payments
+Real Estate Sales Dashboard – Evaluated properties worth 368.95Bn, with insights on 37 agents, 5 unit types, and 4.52M down payments
 
 ## Files
-- Amazon-Sales-Dashboard.pbix → Power BI project file
+- Cold Work Sales.pbix → Power BI project file
 - images/dashboard.png → Dashboard preview
 
 ## Demo Video
